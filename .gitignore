@@ -3,3 +3,4 @@
 
 # Archived/generated data
 hospital_data/archived_logs/
+hospital_data/active_logs/*.log
