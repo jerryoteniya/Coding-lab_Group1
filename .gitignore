@@ -1,0 +1,5 @@
+# Log files
+*.log
+
+# Archived/generated data
+hospital_data/archived_logs/
