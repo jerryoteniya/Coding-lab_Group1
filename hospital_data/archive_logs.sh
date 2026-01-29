@@ -1,7 +1,8 @@
 #!usr/bin/bash
-# Paths
-ACTIVE_DIR="./hospital_data/active_logs"
-ARCHIVE_DIR="./hospital_data/archived_logs"
+# Path
+ACTIVE_DIR="./active_logs"
+ARCHIVE_DIR="./archived_logs"
+
 
 # Menu
 echo "Select a log file to archive:"
