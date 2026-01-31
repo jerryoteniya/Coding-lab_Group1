@@ -10,6 +10,7 @@ Device: 2026-01-29
   Last entry:  02:40:20 HeartRate_Monitor_B
 
 --------------------------------------
+<<<<<<< HEAD
 Temperature Analysis
 Log file: temperature_log.log
 Analysis date: Thu 29 Jan 2026 03:08:43 AM PST
@@ -62,4 +63,15 @@ Device: 2026-01-29
   Total entries: 9235
   First entry: 00:00:00 Water_Consumption_Meter
   Last entry:  02:34:05 Water_Consumption_Meter
+=======
+Heart Rate Analysis
+Log file: heart_rate_log.log
+Analysis date: Thu 29 Jan 2026 07:58:44 AM PST
+
+Device statistics:
+Device: 2026-01-29
+  Total entries: 596
+  First entry: 02:35:21 HeartRate_Monitor_A
+  Last entry:  02:40:20 HeartRate_Monitor_B
+>>>>>>> 7744f8f473f0af758a93ecd5b53645a3dd46b1ea
 
