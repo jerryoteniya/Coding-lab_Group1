@@ -1,0 +1,3 @@
+hospital_data/archived_logs/
+*.pyc
+__pycache__/
